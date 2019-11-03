@@ -1,5 +1,4 @@
-TOP = .
+MODEL = 
 
 SUBMODEL = 
 
-MODEL = 
